@@ -72,6 +72,7 @@
                 <File name="images\staff-8.jpg" />
                 <File name="images\stairs.jpg" />
                 <File name="images\strategy.jpg" />
+                <File name="images\services-header.jpg" />
             </Folder>
             <Folder name="js">
                 <File name="js\bootstrap.min.js" />
